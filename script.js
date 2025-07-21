@@ -1,6 +1,22 @@
 // Array of video data
 const videoData = [
     {
+        title: "NextUp Chatbot (Event Discovery Assistant)",
+        type: "external",
+        external_url: "https://mediaexchange.accenture.com/media/t/1_psngi7a8",
+        thumbnail: "thumbnails/nextup_chatbot.png",
+        description: "A conversational AI assistant that helps users discover relevant events hosted by the NextUp organization. The chatbot analyzes user preferences, interests, and availability to recommend upcoming NextUp events, workshops, and networking opportunities tailored to their professional development needs.",
+        release: "June 2025"
+    },
+    {
+        title: "Fashion Agent (Style Decision Assistant)",
+        type: "external",
+        external_url: "https://mediaexchange.accenture.com/media/t/1_p2v72976",
+        thumbnail: "thumbnails/fashion_agent.png",
+        description: "An AI-powered fashion assistant that helps users decide what to wear based on weather conditions, occasion, personal style preferences, and wardrobe analysis. The agent provides personalized outfit recommendations and styling advice to help users look their best for any event or daily activity.",
+        release: "May 2025"
+    },
+    {
         title: "VibeVault (Music Insights Analyzer)",
         type: "external",
         external_url: "https://mediaexchange.accenture.com/media/t/1_vn849qn1",
